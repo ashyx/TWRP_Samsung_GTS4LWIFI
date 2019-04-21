@@ -1,0 +1,4 @@
+#  
+# ADDITIONAL_DEFAULT_PROPERTIES  
+#  
+sys.usb.configfs=1  
